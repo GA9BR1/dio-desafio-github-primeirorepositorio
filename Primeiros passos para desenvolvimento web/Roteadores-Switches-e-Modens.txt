@@ -1,0 +1,19 @@
+Modem
+
+Modulator-demodulator
+Hardware que converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro. Para que eu possa entender
+
+Roteador
+Distribui internet para um ou mais dispositivos de uma rede
+Pode fazer a comunicação entre redes
+Pode ser "burro" -> Qualquer um recebe os dados que estão nas redes
+
+Switch
+Distribui a internet para um ou mais dispositivos de uma rede
+Criado para ser "inteligente" " HANDSHAKE "
+
+Porta padrão MySQL
+3306
+
+Porta padrão Apache
+80
