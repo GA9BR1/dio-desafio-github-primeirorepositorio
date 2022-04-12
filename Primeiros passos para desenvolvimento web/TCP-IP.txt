@@ -1,0 +1,22 @@
+TCP - IP
+
+TCP - Protocolos de controle de transmissão
+IP - Protocolo de internet
+
+4 Camadas
+1 - Física (ex: placa de rede)
+2 - Rede (ex: IP)
+3 - Transporte (ex: TCP, UDP)
+4 - Aplicação (ex: FTP, SMTP, HTTP)
+
+UDP ->
+Rápido
+Não confiável - Arquivos podem se perder
+Carro do Ovo -> Não sabe se todo mundo está recebendo e quem está recebendo
+Livestream
+
+TCP -> 
+Voltado à conexão
+Handshake -> Aperto de mão, confirmação de recebimento de pacote, por que está mandando, quem está recebendo.
+Integridade, ordem dos dados -> São enviados em ordem
+Aplicativo de mensagens de texto
