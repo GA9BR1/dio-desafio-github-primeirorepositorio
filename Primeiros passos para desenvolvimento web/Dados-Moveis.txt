@@ -1,0 +1,21 @@
+Dados Móveis
+
+SMS 
+Quanto custa, para uma operadora de telefonia móvel, enviar um SMS ? 0. Nada. Vazio. null.
+
+O celular troca, naturalmente, alguns bits com as torres de comunicação
+"Você está aí?""Estou""Você está aí?""Estou"
+"Você está aí?""Estou""Você está aí?""Estou"
+O SMS vem de carona nessas mensagens
+
+
+MMS
+Transmissão de mensagem multimídia, largura maior para transmitir dados maiores.
+
+1G
+2G
+GPRS
+EDGE
+3G
+4G
+5G
