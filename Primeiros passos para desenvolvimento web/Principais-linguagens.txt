@@ -1,0 +1,13 @@
+Principais linguagens
+
+HTML
+CSS
+JavaScript (JQuery, AJAX, diversas libs)
+PHP
+.NET
+ASP
+JAVA
+Ruby (on Rails)
+Python
+Perl
+C/C++/C#
