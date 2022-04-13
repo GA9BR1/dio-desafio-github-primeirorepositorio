@@ -1,0 +1,14 @@
+Web-server
+
+2 tipos -> Estático e Dinâmico
+
+Estático é um servidor físico
+
+Dinâmico softwares que estão presentes no sevidor físico
+Armazenamento de arquivos(file server), aplicações (application server), banco de dados(database), tudo junto e misturado.
+Um site ou aplicativo precisa estar hospedado em um servidor para podder ser acessado
+Os dados de um site precisam estar em um servidor
+
+
+Web-service
+Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis (Correios, Governo)
