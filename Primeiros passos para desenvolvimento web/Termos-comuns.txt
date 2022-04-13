@@ -1,0 +1,52 @@
+Termos comuns
+
+404
+Algoritmo -> Sequência de passos para executar uma tarefa
+ALT -> Texto alternativo
+API -> Parte de um sistema que pode ser usado em outro sistema
+Aplicação
+Back-end
+Biblioteca/dll -> Permitem fazer coisas específicas que a biblioteca ou a dll permite
+Bootstrap
+Breakpoints -> Pontos chaves para responsividade em outros dispositivos ou lugar onde mandamos o debug parar no código
+Browser/navegador
+Bug
+Cache
+Código 
+Controle de versão
+Cookies
+Debug -> Tentar descobrir o problema, econtrar bugs e erros
+Deploy -> Pacote enviado depois de terminar parte ou inteiro no software
+Design adaptativo/responsivo 
+DNS -> Tradutor de nome de site pra ip e vice-versa
+Documentação
+Domínio
+DPI -> Proporção de pontos na tela
+Editor de texto
+Estrutura de dados
+Favicon
+Fontes -> Fonte de letra 
+Frameword 
+Front-end
+FTP -> Troca de arquivos
+Full-stack
+Github/SVN
+HTTP(S)
+IP
+Linguagem
+Meta tags -> Tags dentro do HEAD, para configurações
+Método ágil -> SCRUM por exemplo
+Mobile 
+MVC -> Model View Controler separa o modelo do view e o controle
+MVP -> Minimal Viable Product
+MySQL
+Pixel
+Resolução
+Servidor
+Sistema Operacional/SO
+Solução -> Solução, um programa para o problema de um cliente
+SSL -> Camada de segurança dos sites
+UI
+UX
+Versão
+WYSIMYG -> What you see is what you get
