@@ -1,0 +1,18 @@
+Estrutura básica
+
+Criado por tim Berners-Lee quando trabalhava no CERN para compartilhar documentos.
+
+Elemento HTML
+
+<h1 class="titulo">Título</h1>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
