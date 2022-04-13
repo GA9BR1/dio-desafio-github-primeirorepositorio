@@ -1,0 +1,11 @@
+Wi-fi
+
+IEEE -> Define padrões para o Wi-fi
+
+WEP 64 e 128 bits
+
+WPA chave trocada periodicamente
+
+WPA2 (AES) (802.11i)
+    + Segurança
+    + Processamento
