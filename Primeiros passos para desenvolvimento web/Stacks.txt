@@ -1,0 +1,12 @@
+Stacks
+
+-Conjunto de softaware necessários necessarios para executar um aplicativo/programa
+-Lingugaens de programação
+-Ambientes app/sw
+-Pontos fortes e fracos do app/sw
+-Capacidade e limitação de performance
+-Os lideres de projeto precisam das informações das equipes de desenvolvimento
+-Os devs precisam saber as limitações e capacdiades das ferramentes e ambientes que tem disponiveis
+-Estratégias de negocio
+-Maturidade
+-Contratação
