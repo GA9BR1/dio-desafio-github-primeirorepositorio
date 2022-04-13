@@ -1,0 +1,8 @@
+Semântica
+
+<section> -> Seção
+<header> -> Cabeçalho
+<article> -> Conteúdo relevante
+<aside> -> Links relacionados
+<footer> -> Rodapé
+<h1><h6> -> Importância de um título dentro uma página
