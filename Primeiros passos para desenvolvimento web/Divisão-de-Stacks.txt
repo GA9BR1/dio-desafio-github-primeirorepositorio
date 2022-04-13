@@ -1,0 +1,18 @@
+Divisão de Stacks
+
+Front-end ->
+"Parte da frente"
+Site, software, aplicativo, web service
+Interface, UI, UX
+Lógica de programação, HTML, CSS, Jquery/JS/AJAX, PHP, Bootstrap
+
+Back-end ->
+"Parte de trás"
+Servidores, banco de dados
+"meio-de-campo" entre interface e bancos de dados, regras de negócio, validações
+MySQL, Oracle, protocolos de comunicação, PHP, JAVA, node.js
+
+
+Full stack
+Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de um app/sw
+
